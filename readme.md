@@ -75,7 +75,7 @@ One of the challenges for us was the training images for this competition are 30
 
 
 
-After we crop, the data shape of our input is (bs, 24, img_size, img_size), 24 channels, representing 24 uniformly distributed slice, and also the seq_len of GRU.
+After we crop, the data shape of our input was (bs, 24, img_size, img_size), 24 channels, representing 24 uniformly distributed slices, and also the seq_len of GRU.
 
 For data sampling, we ignored the wrong study 1.2.826.0.1.3680043.20574 and 1.2.826.0.1.3680043.29952
 
