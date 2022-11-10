@@ -1,0 +1,10 @@
+torch==1.12.0+cu113
+torchvision==0.13.0+cu113
+timm==0.6.11
+numpy==1.21.6
+pandas==1.3.5
+scikit-learn==1.0.1
+cv2==4.6.0
+warmup_scheduler==0.3.2
+pydicom==2.3.0
+nibabel==4.0.2
